@@ -1,0 +1,6 @@
+.circular-avatar {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 140px; /* Adjust the width and height as needed */
+    height: 140px;
+  }
